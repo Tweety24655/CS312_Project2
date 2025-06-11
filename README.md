@@ -13,25 +13,9 @@ This project automates the deployment of a Minecraft server using **Terraform** 
 - Minecraft Java Edition
 - Systemd (for auto-start)
 
----
-
-## 📁 Directory Structure
-
-minecraft-automation/
-├── terraform/
-│ ├── main.tf # Terraform infrastructure setup
-│ ├── outputs.tf # Terraform outputs (e.g., public IP)
-│ └── setup-minecraft.sh # Provisioner script to install Minecraft
-├── README.md # This file
-└── demo1.mp4 # First Demo video
-└── demo2.mp4 # Second Demo video
-
-
----
-
 ## 🚀 Quick Start
 
-> 🛑 **Pre-requisites**: AWS CLI configured, Terraform installed, and `.pem` / `.pub` key pair in the Terraform folder
+> 🛑 **Pre-requisites**: AWS CLI configured, Terraform installed, and `.pem` key pair in the Terraform folder
 
 1. **Clone the repo**
 
