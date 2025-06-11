@@ -21,7 +21,7 @@ This project automates the deployment of a Minecraft server using **Terraform** 
 
 ```bash
 git clone https://github.com/Tweety24655/CS312_Project2.git
-cd CS312_Project2/minecraft-automation/terraform
+cd CS312_Project2/terraform
 ```
 
 2. **Initialize Terraform**
