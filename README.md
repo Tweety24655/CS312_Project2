@@ -45,18 +45,8 @@ Outputs:
 public_ip = "3.84.195.63"
 ```
 
-5. **Test with nmap**
+5. **Test with Minecraft**
 
-Replace <ip> with your EC2 public IP:
-
-```bash
-nmap -sV -Pn -p T:25565 <ip>
-```
-
-You should see something like:
-
-```bash
-25565/tcp open  minecraft Mojang Minecraft Classic
-```
+Join the Minecraft server with the ip.
 
 
