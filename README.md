@@ -49,4 +49,11 @@ public_ip = "3.84.195.63"
 
 Join the Minecraft server with the ip.
 
+## 🎥 Demo
+
+- ✅ **Starting Minecraft Server:**  
+  [![Starting Minecraft Server](https://img.youtube.com/vi/QBhPXImq50k/0.jpg)](https://youtu.be/QBhPXImq50k)
+
+- 🎮 **Joining Minecraft Server:**
+  [![Joining Minecraft Server](https://img.youtube.com/vi/YEIIDaVrMLE/0.jpg)](https://youtu.be/YEIIDaVrMLE)
 
